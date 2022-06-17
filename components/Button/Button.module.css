@@ -1,0 +1,14 @@
+.BasicButton {
+    width: 120px;
+    background-color: var(--primary);
+    border-radius: var(--borderRadius);
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: var(--fontSize);
+    margin: 4px 2px;
+    cursor: pointer;
+}

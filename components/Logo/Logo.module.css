@@ -1,0 +1,9 @@
+.logo {
+    text-align: center;
+    font-size: 2rem;
+    color: slategray;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-variant: small-caps;
+    font-style: italic;
+}
